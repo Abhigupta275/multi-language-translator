@@ -4,5 +4,7 @@
     "dashboard":"Dashboard",
     "contact": "Contact Us",
     "about": "About Us",
-    "data":"Abhishek is a Programmer"
+    "aboutData":"I am an enthusiastic, self-motivated, reliable, responsible and hard working person. I am a mature team worker and adaptable to all challenging situations. I am able to work well both in a team environment as well as using own initiative. I am able to work well under pressure and adhere to strict deadlines",
+    "contactData": "Page content refers to all the information contained in a website. Page content can be displayed as text, links, images, audio, animation or videos among other things. Search engines have a limited ability to recognize images, animation, video and audio.",
+    "homeData" : "Function. A home page is the primary web page that a visitor will view when they navigate to a website via a search engine, and it may also function as a landing page to attract visitors. In some cases, the home page is a site directory, particularly when a website has multiple home pages."
 }

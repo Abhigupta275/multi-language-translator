@@ -20,7 +20,7 @@ const Aboutus = () => {
             <div className="content-container">
                 <h1>{t('about')}</h1>
                 <p>{t('welcome')}</p>
-                <p>{t('data')}</p>
+                <p>{t('aboutData')}</p>
             </div>
         </div>
     );

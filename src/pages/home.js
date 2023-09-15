@@ -15,7 +15,7 @@ const Home = () => {
             <Menu />
             <Languageoption onChange={(e) => handleClick(e)} />
             <div className="content-container">
-                <h1>{t('home')}</h1><p>{t('welcome')}</p><p>{t('data')}</p>
+                <h1>{t('home')}</h1><p>{t('welcome')}</p><p>{t('homeData')}</p>
             </div>
         </div>
 

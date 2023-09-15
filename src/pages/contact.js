@@ -16,7 +16,7 @@ const Contactus = () => {
             <Languageoption onChange={(e) => handleClick(e)} />
             <div className="content-container">
                 <h1>{t('contact')}</h1>
-                <p>{t('welcome')}</p> <p>{t('data')}</p>
+                <p>{t('welcome')}</p> <p>{t('contactData')}</p>
                 <div />
             </div>
         </div>
