@@ -1,0 +1,18 @@
+/* menu.css */
+.menu-wrapper {
+    background-color: #333;
+    padding: 10px 0; 
+    text-align: center; 
+  }
+  
+  .menu-wrapper a {
+    color: #fff; 
+    text-decoration: none; 
+    margin: 0 20px; 
+    font-size: 18px; 
+  }
+  
+  .menu-wrapper a:hover {
+    color: #ff6600; 
+  }
+  
